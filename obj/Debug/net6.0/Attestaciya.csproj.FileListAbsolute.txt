@@ -1,0 +1,15 @@
+E:\Coding\C#\Attestaciya\bin\Debug\net6.0\Attestaciya.exe
+E:\Coding\C#\Attestaciya\bin\Debug\net6.0\Attestaciya.deps.json
+E:\Coding\C#\Attestaciya\bin\Debug\net6.0\Attestaciya.runtimeconfig.json
+E:\Coding\C#\Attestaciya\bin\Debug\net6.0\Attestaciya.dll
+E:\Coding\C#\Attestaciya\bin\Debug\net6.0\Attestaciya.pdb
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.csproj.AssemblyReference.cache
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.AssemblyInfoInputs.cache
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.AssemblyInfo.cs
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.dll
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\refint\Attestaciya.dll
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.pdb
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\Attestaciya.genruntimeconfig.cache
+E:\Coding\C#\Attestaciya\obj\Debug\net6.0\ref\Attestaciya.dll
